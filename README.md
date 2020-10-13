@@ -1,2 +1,2 @@
-# nageshempire.github.io
+# NageshEmpire.github.io
 Nagesh Empire Official Website
